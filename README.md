@@ -2,7 +2,7 @@
 
 Chalmers University | July 6–17, 2026 | Prof. Figueroa (University of Pennsylania)
 
-This repo contains the course slides and homework repo for the 2026 summer school on Learning and Control for Adaptive and Reactive Robots @ Chalmers.
+This repo contains the course slides and homework instructions and code for the 2026 summer school on Learning and Control for Adaptive and Reactive Robots @ Chalmers.
 
 The libraries and exercises have been adapted from the Matlab code published alongside the textbook ["Learning for Adaptive and Reactive Robot Control: A Dynamical Systems Approach"](https://mitpress.mit.edu/9780262046169/learning-for-adaptive-and-reactive-robot-control/) by Aude Billard, Sina Mirrazavi and Nadia Figueroa with MIT Press in 2022. 
 
