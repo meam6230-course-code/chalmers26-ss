@@ -1,4 +1,4 @@
-## Chalmers Summer School on Learning and Control for Adaptive & Reactive Robots
+## Summer School on Learning and Control for Adaptive & Reactive Robots @ Chalmers University
 
 Chalmers University | July 6–17, 2026 | Prof. Figueroa (University of Pennsylania)
 
