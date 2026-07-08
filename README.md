@@ -15,12 +15,12 @@ Original book code found here: [https://github.com/learningadaptivereactiverobot
 | 1 | July 6 10:00–12:00 | Lecture | Course Overview & Introduction to DS planning and learning | Ch 1-2 |
 | 2 | July 6 13:30–15:30 | Lecture | Background on Lyapunov Stability Theory | App. A, Ch 3 |
 | 3 | July 8 10:00–12:00 | Lecture | Learning DS Motion Policies Part 1 (SEDS) | Ch 3 |
-| 4 | July 8 13:30–15:30 | Tutorial | HW 1: Learning Globally Asymptotically Stable Dynamical Systems | Ch 3 |
-| 5 | July 10 10:00–12:00 | Lecture | Learning DS Motion Policies Part 2 (LPVDS) | Ch 3 |
+| 4 | July 8 13:30–15:30 | Lecture | Learning DS Motion Policies Part 2 (LPVDS) | Ch 3 |
+| 5 | July 10 10:00–12:00 | Tutorial | HW 1: Learning Globally Asymptotically Stable Dynamical Systems | Ch 3 |
 | 6 | July 10 13:30–15:30 | Tutorial | HW 1: Learning Globally Asymptotically Stable Dynamical Systems | Ch 3 |
 | 7 | July 13 10:00–12:00 | Lecture | Obstacle Avoidance with Dynamical Systems (Part 1) | Ch 8-9 |
-| 8 | July 13 13:30–15:30 | Tutorial | HW 2: Obstacle Avoidance with Dynamical Systems Modulation | Ch 9 |
-| 9 | July 15 10:00–12:00 | Lecture | Obstacle Avoidance with Dynamical Systems (Part 2) | Ch 9 |
+| 8 | July 13 13:30–15:30 | Lecture | Obstacle Avoidance with Dynamical Systems (Part 2) | Ch 9 |
+| 9 | July 15 10:00–12:00 | Tutorial | HW 2: Obstacle Avoidance with Dynamical Systems Modulation | Ch 9 |
 | 10 | July 15 13:30–15:30 | Tutorial | HW 2: Obstacle Avoidance with Dynamical Systems Modulation | Ch 9 |
 | 11 | July 17 10:00–12:00 | Lecture | Passive Impedance Control with Dynamical Systems | Ch 10-11 |
 | 12 | July 17 13:30–15:30 | Lecture | Passive Constrained Torque Control with Dynamical Systems | - |
