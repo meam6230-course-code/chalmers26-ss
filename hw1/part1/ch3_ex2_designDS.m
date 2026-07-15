@@ -33,7 +33,7 @@ addpath(genpath(fullfile(filepath, '..', '..', 'libraries', 'book-ds-opt')));
 % as well as non-linear systems with a constant gamma functions
 % ds_case = 1: xdot = A(x-x*)
 % ds_case = 2: xdot = (gamma_1A_1 + gamma_2A_2)(x-x*)
-ds_case = 2; 
+ds_case = 1; 
 
 switch ds_case
     case 1
